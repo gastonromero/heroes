@@ -3,4 +3,4 @@
 Gastón Romero
 Laura Cruz
 Esteban Rey
-Matias Sabbadini
+Matias Sabbadini, edad: 30, ciudad: Neuquen
