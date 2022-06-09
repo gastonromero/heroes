@@ -1,8 +1,6 @@
 #Heroes
 ##Integrantes:
-Gastón Romero
-Laura Cruz
-Esteban Rey edad: 30 años Lomas de Zamora
-Matias Sabbadini
-
-Matias Sabbadini, edad: 30, ciudad: Neuquen
+- Gastón Romero ~~**edad:**  años, **ciudad:** .~~
+- Esteban Rey ~~**edad:** 30 años, **ciudad:** Lomas de Zamora.~~
+- Matias Sabbadini ~~**edad:** 30 años, **ciudad:** Neuquen.~~
+- Laura Cruz ~~**edad:**  , **ciudad:** ~~.
